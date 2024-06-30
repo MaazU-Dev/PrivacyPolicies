@@ -4,7 +4,7 @@ Last updated: June 30, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 ## Interpretation and Definitions
 
@@ -64,22 +64,6 @@ While using Our Service, We may ask You to provide Us with certain personally id
 - Address, State, Province, ZIP/Postal code, City
 
 
-- Usage Data
-
-
-
-#### Usage Data
-
-Usage Data is collected automatically when using the Service.
-
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
-
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
-
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
-
-
-
 
 
 #### Information Collected while Using the Application
@@ -121,11 +105,6 @@ We may share Your personal information in the following situations:
 - __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
 - __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
 
-### Retention of Your Personal Data
-
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
-
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 
 ### Transfer of Your Personal Data
 
@@ -192,12 +171,6 @@ Our Service does not address anyone under the age of 13. We do not knowingly col
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
-
-## Links to Other Websites
-
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
 ## Changes to this Privacy Policy
 
